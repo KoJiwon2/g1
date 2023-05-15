@@ -1,1 +1,5 @@
 hello 
+
+day 1
+
+ git/ github study
